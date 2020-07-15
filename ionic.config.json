@@ -1,0 +1,7 @@
+{
+  "name": "dine-safe",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
